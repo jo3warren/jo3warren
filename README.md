@@ -8,6 +8,8 @@
 
 ### Connect with me:
 
+[<img align="left" alt"jo3warren.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
+
 [![website](./img/globe-light.svg)](https://jo3warren.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://jo3warren.com#gh-dark-mode-only)
 &nbsp;&nbsp;
