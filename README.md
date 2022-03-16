@@ -8,10 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt"jo3warren.com" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/globe-2x.png" />[website]
-
-[![website](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/globe-2x.png)](https://jo3warren.com#gh-light-mode-only)
-[![website](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/globe-2x.png)](https://jo3warren.com#gh-dark-mode-only)
+[![website](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/globe.png)](https://jo3warren.com#gh-light-mode-only)
+[![website](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/globe.png)](https://jo3warren.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/jo3warren#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/jo3warren#gh-dark-mode-only)
